@@ -1,0 +1,32 @@
+ h1 {
+                text-align: center;
+                font-weight: normal;
+        }
+        table {
+        border-collapse: collapse;
+        width: 100%; 
+        text-align: center
+            }
+          .top {
+        font-weight: bold;        
+          }  
+            .lastcolumn {
+         text-align: left;
+                  }
+          #odd {
+                background:darkgreen;
+                color: white
+          }
+
+          .lastlastcolumn {
+                font-weight: bold;
+          }
+
+          #full {
+                  color: blue
+          }
+
+          #double {
+                border: 5px double black 
+          }
+        
