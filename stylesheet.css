@@ -1,4 +1,23 @@
- h1 {
+.hero-image {
+      background-image: url("https://www.thesun.co.uk/wp-content/uploads/2017/02/nintchdbpict000303439982.jpg?strip=all&w=960");
+      height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+    
+    a {
+      text-align: center;
+      position: absolute;
+      top: 75%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: rgb(255, 255, 255);
+      font-size:50px;
+    }
+
+      h1 {
                 text-align: center;
                 font-weight: normal;
         }
